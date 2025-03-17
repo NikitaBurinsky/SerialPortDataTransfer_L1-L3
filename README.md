@@ -7,7 +7,9 @@
 
 Пример работы программы (для эмуляции кабельного подключения используется виртуальные последовательные порты VSPE): 
 Отправитель - 
-![image](https://github.com/user-attachments/assets/c73cb54f-66fb-4dc1-ab45-a9116a9c278d)
+![image](https://github.com/user-attachments/assets/3fbe5430-d701-4c70-8fb2-5a1b3bbec9ef) ![image](https://github.com/user-attachments/assets/fbd0ecd2-4014-4e25-94bb-96d4616e75cc)
+
+
 Получатель -
 ![image](https://github.com/user-attachments/assets/de847ea4-f066-48c8-8214-252eb2c0bb17)
 
