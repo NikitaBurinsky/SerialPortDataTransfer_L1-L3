@@ -7,9 +7,10 @@
 
 Пример работы программы (для эмуляции кабельного подключения используется виртуальные последовательные порты VSPE): 
 Отправитель - 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/1eaf2983-7311-43cd-89d5-07f96ad6b6e4)
+
 Получатель -
- ![image](https://github.com/user-attachments/assets/fbd0ecd2-4014-4e25-94bb-96d4616e75cc)
+![image](https://github.com/user-attachments/assets/fbd0ecd2-4014-4e25-94bb-96d4616e75cc)
 
 
 P.S. - Вышеописанная система поддерживает передачу по полнодуплексному каналу (в две стороны одновременно), но для наглядности, принимающий и отправляющий клиенты были разделены
