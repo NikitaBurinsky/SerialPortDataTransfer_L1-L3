@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\User">
+      <UniqueIdentifier>{3a1a4847-8f83-4c84-ad2f-e7b5eaec3419}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\User">
+      <UniqueIdentifier>{387224c2-331b-43f5-a7a3-2461e85db310}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Network">
+      <UniqueIdentifier>{05df8973-c42c-43d8-8e17-c6cbad46a552}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Network">
+      <UniqueIdentifier>{8cb75bc9-60a8-4531-93f2-31e285311c19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Network\Layers">
+      <UniqueIdentifier>{b14903d5-5353-4d87-b7a1-209af9f23f8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Network\Layers">
+      <UniqueIdentifier>{59943762-5dcb-4c0b-9b91-0d0c18c2551c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="UserSender.cpp">
+      <Filter>Исходные файлы\User</Filter>
+    </ClCompile>
+    <ClCompile Include="COM_Port.cpp">
+      <Filter>Исходные файлы\Network\Layers</Filter>
+    </ClCompile>
+    <ClCompile Include="L2_CNLayer.cpp">
+      <Filter>Исходные файлы\Network\Layers</Filter>
+    </ClCompile>
+    <ClCompile Include="L3_CNLayer.cpp">
+      <Filter>Исходные файлы\Network\Layers</Filter>
+    </ClCompile>
+    <ClCompile Include="UserCommBase.cpp">
+      <Filter>Исходные файлы\User</Filter>
+    </ClCompile>
+    <ClCompile Include="UserReceiver.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="HammingCoder.cpp">
+      <Filter>Исходные файлы\Network</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="UserSender.h">
+      <Filter>Файлы заголовков\User</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStructs.h">
+      <Filter>Файлы заголовков\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="COM_Port.h">
+      <Filter>Файлы заголовков\Network\Layers</Filter>
+    </ClInclude>
+    <ClInclude Include="L2_CNLayer.h">
+      <Filter>Файлы заголовков\Network\Layers</Filter>
+    </ClInclude>
+    <ClInclude Include="L3_CNLayer.h">
+      <Filter>Файлы заголовков\Network\Layers</Filter>
+    </ClInclude>
+    <ClInclude Include="UserCommBase.h">
+      <Filter>Файлы заголовков\User</Filter>
+    </ClInclude>
+    <ClInclude Include="UserReceiver.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+</Project>

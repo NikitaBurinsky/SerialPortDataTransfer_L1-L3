@@ -1,0 +1,8 @@
+﻿  COM_Port.cpp
+C:\Users\Formatis\Documents\GitHub\Code_Projects\TOKS\TOKS_L1\COM_Port.cpp(58,20): warning C4309: '=': truncation of constant value
+  L2_CNLayer.cpp
+  Source.cpp
+C:\Users\Formatis\Documents\GitHub\Code_Projects\TOKS\TOKS_L1\Source.cpp(14,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+C:\Users\Formatis\Documents\GitHub\Code_Projects\TOKS\TOKS_L1\COM_Port.cpp(87,1): warning C4715: 'COM_Port::Write': not all control paths return a value
+  TOKS_L1.vcxproj -> C:\Users\Formatis\Documents\GitHub\Code_Projects\TOKS\TOKS_L1\x64\Debug\TOKS_L1.exe

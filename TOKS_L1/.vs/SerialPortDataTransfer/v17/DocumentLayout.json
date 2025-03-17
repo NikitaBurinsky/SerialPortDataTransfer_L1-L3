@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA99EAF-C189-4CAF-9D1E-5056B9A2DFA5}|TOKS_L1.vcxproj|C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\L3_CNLayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FA99EAF-C189-4CAF-9D1E-5056B9A2DFA5}|TOKS_L1.vcxproj|solutionrelative:L3_CNLayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA99EAF-C189-4CAF-9D1E-5056B9A2DFA5}|TOKS_L1.vcxproj|C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\L2_CNLayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FA99EAF-C189-4CAF-9D1E-5056B9A2DFA5}|TOKS_L1.vcxproj|solutionrelative:L2_CNLayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA99EAF-C189-4CAF-9D1E-5056B9A2DFA5}|TOKS_L1.vcxproj|C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\HammingCoder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FA99EAF-C189-4CAF-9D1E-5056B9A2DFA5}|TOKS_L1.vcxproj|solutionrelative:HammingCoder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA99EAF-C189-4CAF-9D1E-5056B9A2DFA5}|TOKS_L1.vcxproj|C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\COM_Port.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FA99EAF-C189-4CAF-9D1E-5056B9A2DFA5}|TOKS_L1.vcxproj|solutionrelative:COM_Port.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA99EAF-C189-4CAF-9D1E-5056B9A2DFA5}|TOKS_L1.vcxproj|C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\COM_Port.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FA99EAF-C189-4CAF-9D1E-5056B9A2DFA5}|TOKS_L1.vcxproj|solutionrelative:COM_Port.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA99EAF-C189-4CAF-9D1E-5056B9A2DFA5}|TOKS_L1.vcxproj|C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\L2_CNLayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FA99EAF-C189-4CAF-9D1E-5056B9A2DFA5}|TOKS_L1.vcxproj|solutionrelative:L2_CNLayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA99EAF-C189-4CAF-9D1E-5056B9A2DFA5}|TOKS_L1.vcxproj|C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FA99EAF-C189-4CAF-9D1E-5056B9A2DFA5}|TOKS_L1.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA99EAF-C189-4CAF-9D1E-5056B9A2DFA5}|TOKS_L1.vcxproj|C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\UserSender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FA99EAF-C189-4CAF-9D1E-5056B9A2DFA5}|TOKS_L1.vcxproj|solutionrelative:UserSender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA99EAF-C189-4CAF-9D1E-5056B9A2DFA5}|TOKS_L1.vcxproj|C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\UserSender.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FA99EAF-C189-4CAF-9D1E-5056B9A2DFA5}|TOKS_L1.vcxproj|solutionrelative:UserSender.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "L3_CNLayer.h",
+              "DocumentMoniker": "C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\L3_CNLayer.h",
+              "RelativeDocumentMoniker": "L3_CNLayer.h",
+              "ToolTip": "C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\L3_CNLayer.h",
+              "RelativeToolTip": "L3_CNLayer.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-17T07:15:18.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HammingCoder.cpp",
+              "DocumentMoniker": "C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\HammingCoder.cpp",
+              "RelativeDocumentMoniker": "HammingCoder.cpp",
+              "ToolTip": "C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\HammingCoder.cpp",
+              "RelativeToolTip": "HammingCoder.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T07:14:44.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "L2_CNLayer.h",
+              "DocumentMoniker": "C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\L2_CNLayer.h",
+              "RelativeDocumentMoniker": "L2_CNLayer.h",
+              "ToolTip": "C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\L2_CNLayer.h",
+              "RelativeToolTip": "L2_CNLayer.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-17T07:13:08.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-16T09:15:51.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "L2_CNLayer.cpp",
+              "DocumentMoniker": "C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\L2_CNLayer.cpp",
+              "RelativeDocumentMoniker": "L2_CNLayer.cpp",
+              "ToolTip": "C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\L2_CNLayer.cpp",
+              "RelativeToolTip": "L2_CNLayer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-16T09:09:14.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "COM_Port.cpp",
+              "DocumentMoniker": "C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\COM_Port.cpp",
+              "RelativeDocumentMoniker": "COM_Port.cpp",
+              "ToolTip": "C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\COM_Port.cpp",
+              "RelativeToolTip": "COM_Port.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-15T10:05:24.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "COM_Port.h",
+              "DocumentMoniker": "C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\COM_Port.h",
+              "RelativeDocumentMoniker": "COM_Port.h",
+              "ToolTip": "C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\COM_Port.h",
+              "RelativeToolTip": "COM_Port.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-15T10:02:25.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserSender.h",
+              "DocumentMoniker": "C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\UserSender.h",
+              "RelativeDocumentMoniker": "UserSender.h",
+              "ToolTip": "C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\UserSender.h",
+              "RelativeToolTip": "UserSender.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-15T09:36:35.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserSender.cpp",
+              "DocumentMoniker": "C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\UserSender.cpp",
+              "RelativeDocumentMoniker": "UserSender.cpp",
+              "ToolTip": "C:\\Users\\Formatis\\Documents\\GitHub\\SerialPortDataTransfer_L1-L3\\TOKS_L1\\UserSender.cpp",
+              "RelativeToolTip": "UserSender.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-15T09:35:28.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
